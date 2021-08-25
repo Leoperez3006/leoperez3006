@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello everyone! ✌️ 
+___
+### I'm studying computer science in the Monterrey Institute of Technology and Higher Education
+_Just a mexican guy  with with a great interest for technology and science_
 
-<!--
-**Leoperez3006/leoperez3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### About me:
+- He/His 🧑
+- Mexican 🌵
+- TechLover 💻
+- Gamer 🎮
+- English / Spanish 🗣️
+- music enthusiastic 🎶
+```js
+const leoperez3006 = {
+  pronouns: "He" | "His",
+  code: [Javascript, HTML, CSS, Python, Java, C++, Kotlin,R],
+  tools: [Vue, Node, Matlab, Git, SQL, VIM, VirtualBox],
+}
+```
