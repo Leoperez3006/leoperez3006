@@ -1,6 +1,6 @@
 # Hello everyone! ✌️ 
 ___
-![me](https://user-images.githubusercontent.com/56656216/130864916-91769c12-b4cd-484b-846b-bd44688eb511.gif)
+![me](https://user-images.githubusercontent.com/56656216/130865253-845fe8b4-f800-4cf1-9a58-6d4c8ef2edad.gif)
 ___
 ### I'm studying computer science in the [Monterrey Institute of Technology and Higher Education](https://tec.mx/en)
 _Just a mexican guy  with with a great interest for technology and science_
