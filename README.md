@@ -11,6 +11,7 @@ _Just a mexican guy  with with a great interest for technology and science_
 - Gamer 🎮
 - English / Spanish 🗣️
 - Music enthusiastic 🎶
+___
 ```js
 const leoperez3006 = {
   pronouns: "He" | "His",
