@@ -7,10 +7,10 @@ _Just a mexican guy  with with a great interest for technology and science_
 
 #### About me:
 - Mexican 🌵
-- Tech enthusiastic 💻
+- Tech enthusiast 💻
 - Gamer 🎮
 - English / Spanish 🗣️
-- Music enthusiastic 🎶
+- Music enthusiast 🎶
 ___
 ```js
 const leoperez3006 = {
