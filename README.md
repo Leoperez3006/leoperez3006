@@ -1,15 +1,14 @@
 # Hello everyone! ✌️ 
 ___
-### I'm studying computer science in the Monterrey Institute of Technology and Higher Education
+### I'm studying computer science in the [Monterrey Institute of Technology and Higher Education](https://tec.mx/en)
 _Just a mexican guy  with with a great interest for technology and science_
 
-##### About me:
-- He/His 🧑
+#### About me:
 - Mexican 🌵
-- TechLover 💻
+- Tech enthusiastic 💻
 - Gamer 🎮
 - English / Spanish 🗣️
-- music enthusiastic 🎶
+- Music enthusiastic 🎶
 ```js
 const leoperez3006 = {
   pronouns: "He" | "His",
