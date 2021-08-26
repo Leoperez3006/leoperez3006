@@ -17,5 +17,6 @@ const leoperez3006 = {
   pronouns: "He" | "His",
   code: [Javascript, HTML, CSS, Python, Java, C++, Kotlin,R],
   tools: [Vue, Node, Matlab, Git, SQL, VIM, VirtualBox],
+  interests: [Web development, Machine learning, IA]
 }
 ```
